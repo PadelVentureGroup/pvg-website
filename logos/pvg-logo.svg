@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="420" height="100">
+
+  <!-- Diamond icon mark -->
+  <g transform="translate(50, 50)">
+    <!-- Outer diamond -->
+    <polygon points="0,-42 36,0 0,42 -36,0" fill="#C04A30"/>
+    <!-- Inner diamond outline (depth) -->
+    <polygon points="0,-33 28,0 0,33 -28,0" fill="none" stroke="#F8F6F0" stroke-width="1" opacity="0.35"/>
+    <!-- Center cross lines (subtle court reference) -->
+    <line x1="0" y1="-33" x2="0" y2="33" stroke="#F8F6F0" stroke-width="0.8" opacity="0.2"/>
+    <line x1="-28" y1="0" x2="28" y2="0" stroke="#F8F6F0" stroke-width="0.8" opacity="0.2"/>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="106" y1="18" x2="106" y2="82" stroke="#DDD9CD" stroke-width="1"/>
+
+  <!-- Text block -->
+  <!-- PVG -->
+  <text
+    x="122" y="57"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="38"
+    font-weight="700"
+    fill="#23272F"
+    letter-spacing="10"
+  >PVG</text>
+
+  <!-- PADEL VENTURE GROUP -->
+  <text
+    x="123" y="76"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="9.5"
+    font-weight="400"
+    fill="#C04A30"
+    letter-spacing="5"
+  >PADEL VENTURE GROUP</text>
+
+</svg>

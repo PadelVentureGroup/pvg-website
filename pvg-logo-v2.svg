@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" width="220" height="100">
+  <!-- Court icon — orange filled, dark lines showing court layout -->
+  <!-- Outer rounded rectangle -->
+  <rect x="4" y="4" width="58" height="92" rx="6" ry="6" fill="#C04A30"/>
+
+  <!-- Top band separator (back wall line) -->
+  <line x1="4" y1="22" x2="62" y2="22" stroke="#1A1814" stroke-width="2.5"/>
+
+  <!-- Center horizontal line (net) -->
+  <line x1="4" y1="58" x2="62" y2="58" stroke="#1A1814" stroke-width="2.5"/>
+
+  <!-- Left vertical service line (lower half) -->
+  <line x1="24" y1="58" x2="24" y2="96" stroke="#1A1814" stroke-width="2.5"/>
+
+  <!-- Right vertical service line (lower half) -->
+  <line x1="42" y1="58" x2="42" y2="96" stroke="#1A1814" stroke-width="2.5"/>
+
+  <!-- Ball dot -->
+  <circle cx="50" cy="76" r="4" fill="#1A1814"/>
+
+  <!-- Text: PADEL VENTURE GROUP -->
+  <text x="78" y="36" font-family="Arial, Helvetica, sans-serif"
+        font-size="21" font-weight="700" fill="#C04A30" letter-spacing="1.5">PADEL</text>
+  <text x="78" y="62" font-family="Arial, Helvetica, sans-serif"
+        font-size="21" font-weight="700" fill="#C04A30" letter-spacing="1.5">VENTURE</text>
+  <text x="78" y="88" font-family="Arial, Helvetica, sans-serif"
+        font-size="21" font-weight="700" fill="#C04A30" letter-spacing="1.5">GROUP</text>
+</svg>

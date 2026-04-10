@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- Background -->
+  <rect width="240" height="240" fill="#C04A30"/>
+
+  <!-- Padel court icon — white outline, left side -->
+  <!-- Outer court rectangle -->
+  <rect x="28" y="52" width="72" height="136" rx="3" ry="3"
+        fill="none" stroke="white" stroke-width="4"/>
+  <!-- Center horizontal line -->
+  <line x1="28" y1="120" x2="100" y2="120" stroke="white" stroke-width="3"/>
+  <!-- Left service line (vertical, lower half) -->
+  <line x1="54" y1="120" x2="54" y2="188" stroke="white" stroke-width="3"/>
+  <!-- Right service line (vertical, lower half) -->
+  <line x1="74" y1="120" x2="74" y2="188" stroke="white" stroke-width="3"/>
+  <!-- Ball dot -->
+  <circle cx="78" cy="158" r="5" fill="white"/>
+
+  <!-- Text: PADEL VENTURE GROUP — right side -->
+  <text x="116" y="105" font-family="Arial, Helvetica, sans-serif"
+        font-size="22" font-weight="600" fill="white" letter-spacing="1">PADEL</text>
+  <text x="116" y="133" font-family="Arial, Helvetica, sans-serif"
+        font-size="22" font-weight="600" fill="white" letter-spacing="1">VENTURE</text>
+  <text x="116" y="161" font-family="Arial, Helvetica, sans-serif"
+        font-size="22" font-weight="600" fill="white" letter-spacing="1">GROUP</text>
+</svg>
